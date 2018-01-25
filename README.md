@@ -17,4 +17,4 @@ Bx 其实就是B团
 
 # 关卡
 ## 第一关 暴风下的蓝图
-    详见： [b1.blueprintInStorm](https://github.com/holyond/b1.blueprintInStorm)
+详见[b1.blueprintInStorm](https://github.com/hyd-raiders/b1.blueprintInStorm)
